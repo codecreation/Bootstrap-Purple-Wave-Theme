@@ -1,0 +1,162 @@
+body{
+  font-family: sans-serif;
+}
+
+#navbarNav{
+  text-transform: uppercase;
+
+}
+
+#nav-bar{
+  position: sticky;
+  top: 0;
+  z-index: 10
+}
+
+.navbar{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0!important;
+}
+
+.navbar-brand img{
+  height: 50px;
+  padding-left: 20px;
+}
+
+.navbar-nav li{
+  padding: 0 10px;
+}
+
+.navbar-nav li a{
+  padding: 0 10px;
+  color: white !important;
+  font-weight: 600;
+  float: right;
+  text-align: left;
+}
+
+.fa-bars{
+  color: white !important;
+  font-size: 30px;
+}
+
+.navbar-toggler{
+  outline: none !important;
+}
+
+#banner{
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: white;
+  padding-top: 5%;
+}
+
+.promo-title{
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: 100px;
+}
+
+.fa-play-circle{
+  width: 45px;
+  margin-left: 9.5rem;
+  font-size: 50px;
+  color: white;
+  padding-left: 10px;
+
+}
+
+#banner a{
+
+}
+
+.tutorials{
+  text-transform: uppercase;
+  color: white;
+  top: -50px;
+}
+
+.watch-tutorials{
+  padding-left: 0;
+  margin-left: 8.1rem;
+}
+
+.tutorials-link{
+  color: white;
+  text-decoration: none;
+}
+
+.tutorials-link:hover{
+  color: white;
+  text-decoration: none;
+}
+
+#banner a{
+  color: white;
+  text-decoration: none;
+}
+
+.bottom-img{
+  width: 100%;
+}
+/* SERVICES */
+
+#services{
+  padding: 80px 0;
+}
+
+.service-img{
+  width: 100px;
+  margin-top: 20px;
+}
+
+.services{
+  padding: 20px;
+}
+
+.sevices h4{
+  text-transform: uppercase;
+}
+
+
+.title::before{
+
+}
+
+.title-line{
+  border-top: 0.25rem solid #5f1782;
+  width: 35%;
+
+}
+
+
+#services .btn-primary{
+  box-shadow: none;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 25px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+
+
+
+/* ABOUT US */
+
+#about-us{
+  background: #f8f9fa;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.about-title{
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 8%;
+}
+
+#about-us ul li{
+  margin: 10px 0;
+}
+
+#about-us ul{
+  margin-left: 20px;
+}
